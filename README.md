@@ -14,11 +14,8 @@
 #### Практика минута четвертая.
 не знаю 
 ~~Голубь~~
-<p>
-<align="center">
-  <img width="400" height="250" src="![приве](https://github.com/user-attachments/assets/1347ddc0-afdb-48d3-bf3b-21de058e425a)
-">
-</align>
+<p align="center">
+  <img width="400" height="250" src="https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg">
 </p>
 
 > ПАбл
