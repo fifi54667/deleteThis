@@ -12,3 +12,4 @@
 #### Практика минута четвертая.
 не знаю
  гнгн
+![приве](https://github.com/user-attachments/assets/96e1f8b2-6f58-4a3c-85ea-90a4b90d1d33)
