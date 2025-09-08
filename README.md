@@ -16,5 +16,7 @@
 ~~Голубь~~
 
 <p align="center">
-C:\Users\IS\Downloads\приве.jpg
+![приве](https://github.com/user-attachments/assets/7cac8d9f-9c2a-438d-bb99-271ae866d67f)
+![приве](https://github.com/user-attachments/assets/cce8c47f-3c42-4629-b7a4-6afc5b65835b)
+
 </p>
